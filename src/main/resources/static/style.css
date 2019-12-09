@@ -1,0 +1,12 @@
+.tablescrollable {
+    max-height: 700px;
+    width: 100%;
+    margin: 0;
+    overflow-y: auto;
+}
+.tableheaderscrollable {
+    /*max-height: 450px;*/
+    width: 100%;
+    margin: 0;
+}
+
